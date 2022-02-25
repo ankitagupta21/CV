@@ -38,18 +38,8 @@ p{
 
 .top-container{
     background-color: #EAF6F6;
-    padding-top: 100px;
+    padding: 100px;
     position:relative;
-}
-.top-cloud{
-    position:absolute;
-    right:300px;
-    top:40px;
-}
-.bottom-cloud{
-    position:absolute;
-    left:250px;
-    bottom:300px;
 }
 
 .middle-container{
